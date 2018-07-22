@@ -1,0 +1,11 @@
+# node modules
+node_modules/
+
+# builded files
+app/.next/
+
+# mac os
+.DS_Store
+
+# Logs
+*.log
